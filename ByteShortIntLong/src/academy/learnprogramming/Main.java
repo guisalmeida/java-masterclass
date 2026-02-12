@@ -14,13 +14,13 @@ public class Main {
         // We can add underscore to differentiate the decimal values:
         // int myMaxIntTest = 2_147_483_647;
 
-        int myMinByteValue = Byte.MIN_VALUE;
-        int myMaxByteValue = Byte.MAX_VALUE;
+        byte myMinByteValue = Byte.MIN_VALUE;
+        byte myMaxByteValue = Byte.MAX_VALUE;
         System.out.println("Byte minimum value: " + myMinByteValue);
         System.out.println("Byte maximum value: " + myMaxByteValue);
 
-        int myMinShortValue = Short.MIN_VALUE;
-        int myMaxShortValue = Short.MAX_VALUE;
+        short myMinShortValue = Short.MIN_VALUE;
+        short myMaxShortValue = Short.MAX_VALUE;
         System.out.println("Short minimum value: " + myMinShortValue);
         System.out.println("Short maximum value: " + myMaxShortValue);
     }
