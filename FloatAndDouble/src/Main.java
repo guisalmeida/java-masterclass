@@ -19,5 +19,10 @@ public class Main {
         System.out.println("myIntValue:" + myIntValue);
         System.out.println("myFloatValue:" + myFloatValue);
         System.out.println("myDoubleValue:" + myDoubleValue);
+
+        // Challenge:
+        double pounds = 200d;
+        double convertedKg = pounds * 0.45359237d;
+        System.out.println("Conversion result:" + convertedKg);
     }
 }
