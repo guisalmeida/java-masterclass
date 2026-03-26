@@ -16,6 +16,7 @@
         <module>CharAndBoolean</module>
         <module>ByteShortIntLong</module>
         <module>module-system</module>
+        <module>Methods</module>
     </modules>
 
     <properties>
