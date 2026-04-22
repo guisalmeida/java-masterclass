@@ -1,4 +1,4 @@
-package com.guisalmeida;
+package com.guisalmeida.strings;
 
 public class Main {
     public static void main(String[] args) {
@@ -23,3 +23,4 @@ public class Main {
         System.out.println("lastString with double:" + lastString);
     }
 }
+

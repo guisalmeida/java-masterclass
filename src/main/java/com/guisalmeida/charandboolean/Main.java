@@ -1,4 +1,4 @@
-package com.guisalmeida;
+package com.guisalmeida.charandboolean;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,3 +11,4 @@ public class Main {
         System.out.println(myDecimalChar);
     }
 }
+

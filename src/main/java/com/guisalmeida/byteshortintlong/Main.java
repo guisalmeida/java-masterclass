@@ -1,4 +1,4 @@
-package com.guisalmeida;
+package com.guisalmeida.byteshortintlong;
 
 public class Main {
     public static void main(String[] args) {
@@ -38,3 +38,4 @@ public class Main {
         short myTotalShort = (short) (myMinShortValue / 2);
     }
 }
+

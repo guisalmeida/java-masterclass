@@ -1,4 +1,4 @@
-package com.guisalmeida;
+package com.guisalmeida.floatanddouble;
 
 public class Main {
     public static void main(String[] args) {
@@ -27,3 +27,4 @@ public class Main {
         System.out.println("Conversion result:" + convertedKg);
     }
 }
+

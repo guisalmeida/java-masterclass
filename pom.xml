@@ -7,17 +7,7 @@
     <groupId>com.guisalmeida</groupId>
     <artifactId>java-masterclass</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
-    <modules>
-        <module>FloatAndDouble</module>
-        <module>HelloWorld</module>
-        <module>Strings</module>
-        <module>Operators</module>
-        <module>CharAndBoolean</module>
-        <module>ByteShortIntLong</module>
-        <module>module-system</module>
-        <module>Methods</module>
-    </modules>
+    <packaging>jar</packaging>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
